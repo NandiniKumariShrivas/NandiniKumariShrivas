@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandinikumarishrivas" alt="nandinikumarishrivas" /></a> </p>
 
 - 📫 How to reach me **26nandini.01shrivas@gmail.com**
+- <button>Resume<button/>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1u5sJS7SDe77aADe4pQB1rzL_6dfxdzC_/view?usp=share_link](https://drive.google.com/file/d/1u5sJS7SDe77aADe4pQB1rzL_6dfxdzC_/view?usp=share_link)
 
