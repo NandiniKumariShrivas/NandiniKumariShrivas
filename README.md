@@ -12,9 +12,7 @@
 
 
 - 📫 How to reach me **26nandini.01shrivas@gmail.com**
-- <button>Resume<button/>
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u5sJS7SDe77aADe4pQB1rzL_6dfxdzC_/view?usp=share_link](https://drive.google.com/file/d/1u5sJS7SDe77aADe4pQB1rzL_6dfxdzC_/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1u5sJS7SDe77aADe4pQB1rzL_6dfxdzC_/view?usp=share_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
