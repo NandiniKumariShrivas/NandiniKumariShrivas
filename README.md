@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nandini Kumari Shrivas</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
+
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Self Nandini 👧🏻; - I Am Full-Stack%20Web%20Developer 👩🏻‍💻;-Enthusiastic ;Curious%20To%20Learn%20New%20Things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinikumarishrivas&label=Profile%20views&color=0e75b6&style=flat" alt="nandinikumarishrivas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandinikumarishrivas" alt="nandinikumarishrivas" /></a> </p>
+
+ 
+
 
 - 📫 How to reach me **26nandini.01shrivas@gmail.com**
 - <button>Resume<button/>
