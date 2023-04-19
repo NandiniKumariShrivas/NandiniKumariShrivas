@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **26nandini.01shrivas@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1u5sJS7SDe77aADe4pQB1rzL_6dfxdzC_/view?usp=share_link">Resume</a>
+- 📄 My work <a href="https://mellow-crisp-55f0c0.netlify.app/">Portfolio</a>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
